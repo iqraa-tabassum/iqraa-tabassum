@@ -3,12 +3,12 @@
 <p align="center">
   <em>B.Sc. Computer Science &amp; Data Analytics · Indian Institute of Technology Patna</em>
 </p>
+
 <p align="center">
-  <a href="theiqraaa@gmail.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-8B2635?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/iqratbssm?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-Visit-3A2922?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:theiqraaa@gmail.com"><img src="https://img.shields.io/badge/Email-theiqraaa%40gmail.com-8B2635?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/iqratabssum?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://iqraa-tabassum.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-3A2922?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </p>
----
  
 ### About Me
  
@@ -64,8 +64,12 @@ backed by a relational database schema for persistent, efficient data retrieval.
 **E-Commerce Fake Product Reviews Monitor & Deletion System**
 A system to detect and flag fake or spam product reviews, helping shoppers rely on genuine feedback and
 enabling low-maintenance moderation of fraudulent content.
- 
-> ✏️ *Add links to these repos once pushed — replace the placeholder link above.*
+
+ **Employee Management System**
+ Built an Employee Management System for records, attendance, and payroll.
+Designed a relational database for employee and department data.
+Implemented CRUD operations for record management.
+Applied modular programming for scalability.
  
 ---
  
