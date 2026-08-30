@@ -61,11 +61,11 @@ Foundations of Data Analytics · Numerical Methods for Data Science
 Full-stack system supporting patient registration, appointment scheduling, and medical record management,
 backed by a relational database schema for persistent, efficient data retrieval.
  
-**E-Commerce Fake Product Reviews Monitor & Deletion System**
+**[E-Commerce Fake Product Reviews Monitor & Deletion System](https://github.com/iqraa-tabassum)**
 A system to detect and flag fake or spam product reviews, helping shoppers rely on genuine feedback and
 enabling low-maintenance moderation of fraudulent content.
 
- **Employee Management System**
+ **[Employee Management System](https://github.com/iqraa-tabassum)**
  Built an Employee Management System for records, attendance, and payroll.
 Designed a relational database for employee and department data.
 Implemented CRUD operations for record management.
