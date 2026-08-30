@@ -4,8 +4,8 @@
   <em>B.Sc. Computer Science &amp; Data Analytics · Indian Institute of Technology Patna</em>
 </p>
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-8B2635?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:theiqraaa@gmail.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-8B2635?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/iqratbssm?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-Visit-3A2922?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </p>
 ---
