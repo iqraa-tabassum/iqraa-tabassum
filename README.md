@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Iqra Tabassum 👋</h1>
+<h1 align="center"> IQRA TABASSUM </h1>
  
 <p align="center">
   <em>B.Sc. Computer Science &amp; Data Analytics · Indian Institute of Technology Patna</em>
@@ -10,16 +10,16 @@
 </p>
 ---
  
-### 🧭 About Me
+### About Me
  
-Second-year B.Sc. student in Computer Science and Data Analytics at **Indian Institute of Technology Patna**,
+I am Second-year B.Sc. student in Computer Science and Data Analytics at **Indian Institute of Technology Patna**,
 building strong foundations in quantitative finance, software engineering, and data analytics. Naturally curious
 and eager to learn — exploring code, data, and technology through coursework and hands-on projects.
  
-- 🎓 Currently pursuing B.Sc in Computer Science & Data Analytics** (2025 – Present), CGPA 9.26 / 10
+- 🎓 Currently pursuing **B.Sc in Computer Science & Data Analytics** (2025 – Present), CGPA 9.26 / 10
 - 💼 Previously interned as a Web Development Intern at ZMR Tech Solutions
-- 🌱 Interests: quantitative finance, data analytics, algorithms, and full-stack development
-- 📫 Reach me at your.email@example.com
+- 📈 Interests: quantitative finance, data analytics, algorithms, and full-stack development
+- 📫 Reach me at theiqraaa@gmail.com 
 ---
  
 ### 🎓 Education
